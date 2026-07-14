@@ -1,3 +1,135 @@
+<!-- ========================================= -->
+<!--           SAKSHI GUPTA PROFILE             -->
+<!-- ========================================= -->
+
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Sakshi Gupta**
+
+### 💙 Data Science Engineer | AI Enthusiast | Open Source Contributor
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Aspiring+Data+Science+Engineer;Machine+Learning+Explorer;AI+Enthusiast;Open+Source+Contributor;Building+Technology+that+Solves+Real+World+Problems" />
+
+<br>
+
+<a href="https://github.com/Sakshi-Gupta242">
+<img src="https://img.shields.io/badge/GitHub-Sakshi--Gupta242-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sakshi-gupta-042390346">
+<img src="https://img.shields.io/badge/LinkedIn-Sakshi_Gupta-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sakshigupta8486@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://sakshi-gupta242.github.io/sakshiportfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 Pre-Final Year B.Tech Student
+
+🏫 GL Bajaj Institute of Technology & Management
+
+💙 Computer Science & Engineering (Data Science)
+
+📍 New Delhi, India
+
+💡 Passionate about solving real-world problems using
+Artificial Intelligence, Machine Learning and Data Science.
+
+🚀 I enjoy building AI-powered applications,
+participating in Hackathons and contributing to Open Source.
+
+🌱 Currently learning
+
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Cloud Computing
+- MLOps
+
+---
+
+# 🚀 Current Focus
+
+- 📚 Mastering Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- ☁️ Cloud & MLOps
+- 💻 Full Stack Development
+- 🌍 Open Source Contributions
+- 🎯 Placement Preparation
+- 🏆 Hackathons
+
+---
+
+# ✨ Quick Highlights
+
+✔️ Aspiring Data Science Engineer
+
+✔️ AI & Machine Learning Enthusiast
+
+✔️ Open Source Contributor
+
+✔️ Hackathon Participant
+
+✔️ Building AI Projects
+
+✔️ Constant Learner
+
+✔️ Loves solving challenging problems
+
+✔️ Team Player & Fast Learner
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Sakshi-Gupta242">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sakshi-gupta-042390346">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sakshigupta8486@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://sakshi-gupta242.github.io/sakshiportfolio/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Sakshi-Gupta242">
+<img src="https://img.shields.io/github/followers/Sakshi-Gupta242?label=Followers&style=social"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Sakshi-Gupta242&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=250&section=header&text=Sakshi%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=60" width="100%" />
