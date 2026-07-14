@@ -1,3 +1,93 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=250&section=header&text=Sakshi%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=60" width="100%" />
+
+# Hi 👋, I'm Sakshi Gupta
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/Sakshi-Gupta242">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sakshi-gupta-042390346">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:sakshigupta8486@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://sakshi-gupta242.github.io/sakshiportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Sakshi-Gupta242&label=Profile%20Views&color=0e75b6&style=flat-square" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+🎓 **Pre-Final Year B.Tech Student**
+
+🏫 **GL Bajaj Institute of Technology & Management**
+
+💙 **Computer Science & Engineering (Data Science)**
+
+🌱 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development**.
+
+💡 I enjoy building intelligent applications that solve real-world problems through data-driven solutions.
+
+🚀 I love participating in hackathons, contributing to Open Source, and continuously learning modern technologies.
+
+---
+
+## 🚀 Current Focus
+
+- 📊 Data Science & Machine Learning
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
+- 🌍 Open Source Contributions
+- 🧩 Data Structures & Algorithms
+- ☁️ Cloud & MLOps
+- 📈 Placement Preparation
+
+---
+
+## 🌟 Quick Highlights
+
+- 🎯 Aspiring **Data Science Engineer**
+- 💻 Building AI-powered real-world applications
+- 🏆 Hackathon Participant & Open Source Contributor
+- 🌱 Currently exploring **Machine Learning, Deep Learning & Data Analytics**
+- 🤝 Always open to collaboration on impactful tech projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sakshi-gupta-042390346">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sakshigupta8486@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://sakshi-gupta242.github.io/sakshiportfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome"/>
+</a>
+</p>
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sakshi_gupta24) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techwithvoice) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-gupta-042390346) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sakshigupta8486) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SakshiGupt9850) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Saksh_techvoice) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshigupta8486@gmail.com) 
